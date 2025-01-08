@@ -2,9 +2,9 @@
 
 ## 作品信息
 
-原曲：[**鳥の詩（とりのうた）**](https://baike.baidu.com/item/%E9%B8%9F%E4%B9%8B%E8%AF%97/5675569)
-原曲作者：Shinji Orito
-编曲作者：DE-YU
+原曲：[**鳥の詩（とりのうた）**](https://baike.baidu.com/item/%E9%B8%9F%E4%B9%8B%E8%AF%97/5675569)  
+原曲作者：Shinji Orito  
+编曲作者：DE-YU  
 
 ## 乐器配置
 

@@ -2,9 +2,9 @@
 
 ## 作品信息
 
-原曲：[**东方萃梦想（Arrange）**](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%88%E6%9B%B2%E7%9B%AE%EF%BC%89)
-原曲作者：Uni Akiyama
-编曲作者：DE-YU
+原曲：[**东方萃梦想（Arrange）**](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E8%90%83%E6%A2%A6%E6%83%B3%EF%BC%88%E6%9B%B2%E7%9B%AE%EF%BC%89)  
+原曲作者：Uni Akiyama  
+编曲作者：DE-YU  
 
 ## 乐器配置
 
